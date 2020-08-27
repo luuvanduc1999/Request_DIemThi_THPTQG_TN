@@ -1,0 +1,4 @@
+GET CAPTCHA
+http://27.71.233.238:8080/TraCuu/GetCaptcha?time=xxxxxxxxx&choose=1
+JSON TO TABLE
+https://www.convertjson.com/json-to-html-table.htm
