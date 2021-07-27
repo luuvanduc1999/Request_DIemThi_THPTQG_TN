@@ -13,7 +13,7 @@ for (var i=0; i<arr.length; i++)
                 success: function (data) {
                     console.log(data);
                     data.SOBAODANH=arr[i];
-                    rs.push(data);
+                     if (data.Message != "Không tìm thấy thí sinh") rs.push(data);
                 }
             });
 }
