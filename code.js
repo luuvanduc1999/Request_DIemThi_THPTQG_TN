@@ -45,3 +45,4 @@ for (var i=0; i<rs.length; i++)
 }
 
 JSON.stringify(rs);
+copy(rs);
