@@ -4,7 +4,7 @@ Phải chuột vào captcha, mở sang tab mới, link có dạng
 http://[adress]/TraCuu/GetCaptcha?time=xxxxxxxxx&choose=1
 sửa mấy số đằng sau cho to lên rồi enter.
 
-Lấy mã này cho vào code, F12 paste vào console rồi chạy
+Lấy mã này cho vào code, F12 paste vào console rồi chạy. Tất cả điểm được copy vào clipboard dưới dạng JSON
 
 **JSON TO TABLE**
 
